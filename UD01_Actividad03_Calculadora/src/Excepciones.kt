@@ -1,0 +1,5 @@
+class Excepciones {
+ /**EN ESTÁ CLASE UNICAMENTE HABRÁ FUNCIONES DEPURADORAS*/
+
+
+}
